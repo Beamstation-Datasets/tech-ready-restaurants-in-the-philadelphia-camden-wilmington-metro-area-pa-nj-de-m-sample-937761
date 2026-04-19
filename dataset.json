@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in the Philadelphia-Camden-Wilmington Metro Area, PA-NJ-DE-MD, US",
-  "export_job_id": "4b22058a-a10a-433f-819a-d7d18f69abd9",
+  "export_job_id": "6068a60c-c21d-4270-ae6d-ff964709ec20",
   "github_org": "Beamstation-Datasets",
   "id_short": 937761,
   "location_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
   "location_type": "metro",
   "repo_name": "tech-ready-restaurants-in-the-philadelphia-camden-wilmington-metro-area-pa-nj-de-m-sample-937761",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/937761/beamstation_937761_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
-  "sample_pct": 6.73,
+  "sample_pct": 8.86,
   "sample_records": 7,
   "sample_sha256": "dcd3a49d22d37c7e93c73a219b5410256962db5c49bcbc49ae98bfe69f28028e",
   "sample_size_bytes": 41737,
-  "total_records": 104,
-  "updated_at": "2026-04-08T07:14:41.904150+00:00"
+  "total_records": 79,
+  "updated_at": "2026-04-15T10:38:10.387957+00:00"
 }
