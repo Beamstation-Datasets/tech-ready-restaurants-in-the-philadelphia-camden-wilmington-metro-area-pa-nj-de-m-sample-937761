@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c3a590fe-300a-4713-b445-81fcd27ec641",
+  "export_job_id": "f529eb5f-7bb0-4452-8bb9-a30d94bcf12f",
   "id_short": 937761,
-  "published_at": "2026-04-23T07:17:40Z",
+  "published_at": "2026-04-29T19:51:44Z",
   "repo_name": "tech-ready-restaurants-in-the-philadelphia-camden-wilmington-metro-area-pa-nj-de-m-sample-937761",
   "sample_asset_name": "beamstation_937761_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/937761/beamstation_937761_restaurants-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "e1f0a4a15b1f0f5c666a01222c2d4391711cd7cf568919e5841e91b0e17b317c",
-  "sample_size_bytes": 20392,
-  "total_records": 15
+  "sample_records": 4,
+  "sample_sha256": "7d328fd8becce4b50ad7e3434b4585a1bd0e0794813a41a5fc3040d34e45874f",
+  "sample_size_bytes": 30986,
+  "total_records": 42
 }
